@@ -71,8 +71,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkamalhossen&show_icons=true&locale=en&layout=compact" alt="devkamalhossen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkamalhossen&show_icons=true&locale=en" alt="devkamalhossen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkamalhossen&" alt="devkamalhossen" /></p>
