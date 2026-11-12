@@ -24,7 +24,7 @@
 </h3>
 
 <p align="center">
-  <img src="/Preview Image.pngg"
+  <img src="/previewimg.png"
        alt="ClientPulse CRM Dashboard"
        width="100%">
 </p>
