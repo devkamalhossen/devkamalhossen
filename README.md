@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/Senior Laravel Engineer Tech Banner.png" alt="Md. Kamal Hossen - Senior Laravel Software Engineer" width="100%" />
+  <img src="assets/banner.png" alt="Md. Kamal Hossen - Senior Laravel Software Engineer" width="100%" />
 </p>
 
 <h3>Laravel Web Developer | REST API Expert | Admin Panel Specialist | Open for work.</h3>
