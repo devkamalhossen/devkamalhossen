@@ -16,6 +16,62 @@
   <li>✅ Proficient in authentication, Blade templating, and backend logic</li>
 </ul>
 
+
+<h2 align="center">🚀 Featured Product — ClientPulse CRM</h2>
+
+<h3 align="center">
+  A Complete Laravel CRM & Business Management Solution
+</h3>
+
+<p align="center">
+  <img src="/Preview Image.pngg"
+       alt="ClientPulse CRM Dashboard"
+       width="100%">
+</p>
+
+<p align="center">
+  <strong>
+    Laravel 12 | Filament 5 | PHP | MySQL | Docker
+  </strong>
+</p>
+
+<p align="center">
+  ClientPulse CRM is a professionally developed business
+  management solution for managing clients, projects,
+  teams, invoices, payments, expenses and sales operations.
+</p>
+
+<h3>✨ Key Features</h3>
+
+<ul>
+  <li>Role-Based Portals — Admin, Account, Sales, Manager & Client</li>
+  <li>Client and Project Management</li>
+  <li>Invoice, Payment & Expense Management</li>
+  <li>Sales Team & Commission Management</li>
+  <li>SMS & WhatsApp Notifications</li>
+  <li>Client Portal and Follow-up Management</li>
+  <li>Role-Based Access Control</li>
+</ul>
+
+<h3 align="center">Explore & Purchase ClientPulse CRM</h3>
+
+<p align="center">
+  <a href="https://devkamalhossen.online/clientpulse/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Demo-16A34A?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://www.codester.com/items/74925/clientpulse-laravel-crm">
+    <img src="https://img.shields.io/badge/BUY_ON-CODESTER-E87524?style=for-the-badge" alt="Buy on Codester">
+  </a>
+  <a href="https://vibe96.com/project/clientpulse">
+    <img src="https://img.shields.io/badge/VIEW_ON-VIBE96-2563EB?style=for-the-badge" alt="View on Vibe96">
+  </a>
+</p>
+
+<p align="center">
+  <em>Designed & Developed by Md. Kamal Hossen</em>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devkamalhossen" target="_blank">
