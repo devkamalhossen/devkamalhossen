@@ -5,19 +5,10 @@
   <img src="/banner.png" alt="Md. Kamal Hossen - Senior Laravel Software Engineer" width="100%" />
 </p>
 
-<h3>Laravel Web Developer | REST API Expert | Admin Panel Specialist | Open for work.</h3>
-
-<p>I help businesses build <strong>fast, scalable, and secure web applications</strong> using Laravel.</p>
-
-<ul>
-  <li>✅ I specialize in <strong>Laravel development</strong> with 3+ years of real-world experience building secure, scalable, and maintainable applications.</li>
-  <li>✅ Expert in REST APIs, MySQL, Eloquent ORM</li>
-  <li>✅ Skilled in AJAX, dynamic admin panels & multi-vendor systems</li>
-  <li>✅ Proficient in authentication, Blade templating, and backend logic</li>
-</ul>
+<h3>Senior Software Engineer (Laravel) | Filament | PHP | REST APIs | MySQL | Docker | Linux | CI/CD | Open to Remote Opportunities.</h3>
 
 
-<h2 align="center">🚀 Featured Product — ClientPulse CRM</h2>
+<h2 align="center"> Featured Product — ClientPulse CRM</h2>
 
 <h3 align="center">
   A Complete Laravel CRM & Business Management Solution
