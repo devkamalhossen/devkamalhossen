@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md.Kamal Hossen</h1>
 
+<p align="center">
+  <img src="./assets/github-banner.png"
+       alt="Md. Kamal Hossen - Senior Laravel Software Engineer"
+       width="100%">
+</p>
+
 <h3>Laravel Web Developer | REST API Expert | Admin Panel Specialist | Open for work.</h3>
 
 <p>I help businesses build <strong>fast, scalable, and secure web applications</strong> using Laravel.</p>
